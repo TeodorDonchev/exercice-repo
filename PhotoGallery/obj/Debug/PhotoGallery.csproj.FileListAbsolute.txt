@@ -1,0 +1,5 @@
+C:\Programming\Lessons\CSharp - Basics – More Exercises\PhotoGallery\bin\Debug\PhotoGallery.exe.config
+C:\Programming\Lessons\CSharp - Basics – More Exercises\PhotoGallery\bin\Debug\PhotoGallery.exe
+C:\Programming\Lessons\CSharp - Basics – More Exercises\PhotoGallery\bin\Debug\PhotoGallery.pdb
+C:\Programming\Lessons\CSharp - Basics – More Exercises\PhotoGallery\obj\Debug\PhotoGallery.exe
+C:\Programming\Lessons\CSharp - Basics – More Exercises\PhotoGallery\obj\Debug\PhotoGallery.pdb

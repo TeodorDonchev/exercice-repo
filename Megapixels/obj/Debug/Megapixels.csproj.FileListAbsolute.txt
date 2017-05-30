@@ -1,0 +1,5 @@
+C:\Programming\Lessons\CSharp - Basics – More Exercises\Megapixels\bin\Debug\Megapixels.exe.config
+C:\Programming\Lessons\CSharp - Basics – More Exercises\Megapixels\bin\Debug\Megapixels.exe
+C:\Programming\Lessons\CSharp - Basics – More Exercises\Megapixels\bin\Debug\Megapixels.pdb
+C:\Programming\Lessons\CSharp - Basics – More Exercises\Megapixels\obj\Debug\Megapixels.exe
+C:\Programming\Lessons\CSharp - Basics – More Exercises\Megapixels\obj\Debug\Megapixels.pdb
