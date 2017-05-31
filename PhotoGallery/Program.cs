@@ -52,6 +52,8 @@ namespace PhotoGallery
             {
                 Console.WriteLine($"Resolution: {width}x{height} (portrait)");
             }
+
+            Console.WriteLine("Succesful transformation!");
         }
     }
 }
