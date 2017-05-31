@@ -15,6 +15,7 @@ namespace Megapixels
             Console.WriteLine("Please enter the month you made the photo: ");
             var month = int.Parse(Console.ReadLine());
             Console.WriteLine("Please enter the day you made the photo: ");
+            var day = int.Parse(Console.ReadLine());
             Console.Write("Please enter the width of the photo: ");
             var width = double.Parse(Console.ReadLine());
             Console.Write("Please enter the height of the photo: ");
